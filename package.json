@@ -4,7 +4,8 @@
   "description": "A simple node api",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint:check": "prettier --check .",
+    "lint:fix": "prettier --write ."
   },
   "author": "IsraelCena",
   "license": "MIT",
