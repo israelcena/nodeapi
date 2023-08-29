@@ -9,6 +9,7 @@
   "author": "IsraelCena",
   "license": "MIT",
   "devDependencies": {
-    "git-commit-msg-linter": "^5.0.4"
+    "git-commit-msg-linter": "^5.0.4",
+    "prettier": "3.0.2"
   }
 }
